@@ -73,10 +73,9 @@ module.exports = {
       // ========================================================
       {
         title: '테스트 게시글 입니다.',
-        description:
-          '테스트 게시글 입니다.',
+        description: '테스트 게시글 입니다.',
         techStack: ['gatsby', 'react'],
-        thumbnailUrl: 'blog.png',
+        // thumbnailUrl: 'blog.png',
         links: {
           post: '/gatsby-starter-zoomkoding-introduction',
           github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
