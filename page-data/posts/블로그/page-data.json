@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-category-template-js",
-    "path": "/posts/블로그",
-    "result": {"pageContext":{"currentCategory":"블로그","categories":["All","블로그","featured"],"edges":[{"node":{"id":"dbc7a2a8-ba00-54cf-b135-b0d8e28a6563","excerpt":"🌟 어떻게 동작하는지 확인해보기 위한 테스트 글입니다. 이것은 javascript 입니다. 이것은 JSON입니다. 이것은 링크된 이미지입니다.\n링크이미지 이것은 저장된 이미지입니다.\n 엄청 편리하네요.","fields":{"slug":"/test-upload-pots/"},"frontmatter":{"categories":"블로그 featured","title":"테스트 게시글입니다.","date":"January 09, 2022"}},"next":null,"previous":null}]}},
-    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
